@@ -3,7 +3,7 @@
 ## Como baixar o projeto
 
 ```bash
-git clone https://github.com/SEU-USUARIO/transformer-encoder-lab.git
+git clone https://github.com/mathcast/LAB-P1-02.git
 cd transformer-encoder-lab
 ```
 
